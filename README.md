@@ -46,7 +46,7 @@ mvn spring-boot:run
 There are two rest endpoints to test:
 
 * **/camel/user/hello**
-* **/camel/admin/hello+*
+* **/camel/admin/hello**
 
 First, test with user John, so a token for him is required:
 
